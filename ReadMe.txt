@@ -1,7 +1,10 @@
 ========================================================================
     CONSOLE APPLICATION : p1 Project Overview
 ========================================================================
-
+These codes can help you to simulate application mapping on a mesh based multi-core 
+architecture.
+you can define the size of mesh platform in the main() function at p1.cpp by passing constructor arguments in platform class.
+Also you can determine the application graph which must be tested by entering the graph file name in p1.cpp( via doing an insertion at #define GRAPH_NAME )
 This file contains a summary of what you will find in each of the files that
 make up your TASK_MAPPING application.
 
