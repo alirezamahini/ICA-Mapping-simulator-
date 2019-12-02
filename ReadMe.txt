@@ -2,21 +2,15 @@
     CONSOLE APPLICATION : p1 Project Overview
 ========================================================================
 
-AppWizard has created this p1 application for you.
-
 This file contains a summary of what you will find in each of the files that
-make up your p1 application.
+make up your TASK_MAPPING application.
 
-
-p1.vcproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
 
 p1.cpp
     This is the main application source file.
-
+Graph folder contains files that represent the simulated application graph.
+create an empty c++ console application in vc and adding all cpp and h files.
+then copr Graph folder to debug folder of your project, finally run the project.
 /////////////////////////////////////////////////////////////////////////////
 Other standard files:
 
